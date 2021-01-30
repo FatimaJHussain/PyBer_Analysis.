@@ -7,7 +7,7 @@ This analysis is performed to define and analyze the ride-sharing data by city t
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
-Figure-1: Ride Sharing Data per City ![Ride_Sharing_Data](https://github.com/FatimaJHussain/PyBer_Analysis./blob/main/Ride_Sharing.png), 
+Figure-1: Ride Sharing Data per City ![Ride_Sharing_Data](https://github.com/FatimaJHussain/PyBer_Analysis./blob/main/Analysis/PyBer_fare_summary.png), 
 
 # Summary:
 
