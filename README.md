@@ -1,7 +1,7 @@
 # PyBer_Analysis.
 
 # Overview of the analysis
-This analysis is performed to define and analyze the ride-sharing data by city type. Afterwards, multiple-line graph is drawn to reflect the the total weekly fares for each city type.
+This analysis is performed to define and analyze the ride-sharing data by city type. It will reflect various facts, such as average fare, average number of rides etc. for three types of cities; Urban, Suburban and Rural. Afterwards, multiple-line graph is drawn to reflect the the total monthly fares for each city type.
 
 # Results:
 
@@ -11,10 +11,14 @@ Figure-1: Ride Sharing Trends ![Ride_Sharing_Trends](https://github.com/FatimaJH
 ## Total Number of Rides
 
 Urban cities have maximum number of rides: 1625 and Rural cities has minimum number of rides: 125. While Suburban cities find thier place in the middle with total rides:625
-## Total Number of Drivers
+## Total Number of Drivers and Average Fare per Driver
+
+Rural cities have least number of drivers:78, having average fare being $55.49, which is quiet good. On the contrary, we see large number of drivers in Urban cities:2405, obtaing average fare of $16.57, which is not that good. While 
+
+## Total Fare and Average Fare per Ride
 
 ## Ride Sharing Trends per  1st Quarter
-In the Figure-2, ride sharing trends are displayed over 1st quarter of a year, i.e January,Feburary, March and April. W e can see that urban cities sre  leading this trends with visible jump. 
+In the Figure-2, ride sharing trends are displayed over 1st quarter of a year, i.e January,Feburary, March and April. We can see that urban cities sre  leading this trends with visible jump. 
 
 Figure-2: Ride Sharing Data per City ![Ride_Sharing_Data](https://github.com/FatimaJHussain/PyBer_Analysis./blob/main/Analysis/PyBer_fare_summary.png), 
 
