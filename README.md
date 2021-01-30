@@ -26,4 +26,4 @@ Figure-2: Ride Sharing Data per City ![Ride_Sharing_Data](https://github.com/Fat
 
 * Ride sharing trends demonstrates that urban cities have the maximum number of drivers, but average fare per driver is the lowest. This situation can be improved by relaxing tax deductions and managemnt charges in urban cities.  In this way, net money going to the driver will increase.
 
-* 
+* Rural cities have less drivers and have more fare being charged by travellers. If more incentives are 
