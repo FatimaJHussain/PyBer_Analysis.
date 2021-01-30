@@ -12,10 +12,10 @@ Figure-1: Ride Sharing Trends ![Ride_Sharing_Trends](https://github.com/FatimaJH
 
 Urban cities have maximum number of rides: 1625 and Rural cities has minimum number of rides: 125. While Suburban cities find thier place in the middle with total rides:625
 ## Total Number of Drivers and Average Fare per Driver
-
-Rural cities have least number of drivers:78, having average fare being $55.49, which is quiet good. On the contrary, we see large number of drivers in Urban cities:2405, obtaing average fare of $16.57, which is not that good. While Suburban cities have 490 drivers with moderate fare of $39.50 being charged. 
+Rural cities have least number of drivers:78, having average fare being $55.49, which is quiet good. On the contrary, we see large number of drivers in Urban cities:2405, obtaing average fare of $16.57, which is not that good. This means that, almost $8-9 have been taken away in taxes; as average fare per ride is $24.52 and driver gets just $16.57 on average.  While Suburban cities have 490 drivers with moderate fare of $39.50 on average.
 
 ## Total Fare and Average Fare per Ride
+Average fare per ride is pretty low in Urban cities: $24.52 and it is very good as more  people can benefit from ride sharing services. Average fare per ride in Rural cities is $34.62 and it is not that high as compared to urban cities.  
 
 ## Ride Sharing Trends per  1st Quarter
 In the Figure-2, ride sharing trends are displayed over 1st quarter of a year, i.e January,Feburary, March and April. We can see that urban cities sre  leading this trends with visible jump. 
